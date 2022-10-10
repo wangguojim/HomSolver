@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6207d53a-a3c3-4fe5-b26e-e8251e77ac77" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/app-hom/parbdqp.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-hom/parbdqpsparse.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-hom/solvep.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/FISTA.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/ISTA.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/Lasso_L1_hom3.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/bdhom.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/box_L1_apg.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/box_L1_hom.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/eps_correct_bound.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/gpu_primal_ssnal.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/homobound_epscorr.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/larslasso.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/lasso_L1_hom.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/lasso_L1_hom1.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/lasso_L1_hom1_cp.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/lasso_L1_hom2.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/lasso_apg.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/lasso_apg_hom.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/lasso_apg_hom1.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/lasso_apg_hom2.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/lasso_gcd.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/lasso_gcd1_test.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/pbc_l1hom.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/polyterm.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/primal_ssnal.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/qp_L1_hom.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/qp_L1_hom2.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/subFISTA.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbc_l1_hom/subFISTA1.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpp_hom/mineigs.m" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2F3sJB2oNrsOWEcHNOvojSIzKC7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/wang/study/program/program/lasso/pbc_l1_hom"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6207d53a-a3c3-4fe5-b26e-e8251e77ac77" name="变更" comment="" />
+      <created>1663732027227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663732027227</updated>
+      <workItem from="1663732028417" duration="2918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
